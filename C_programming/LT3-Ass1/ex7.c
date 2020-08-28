@@ -21,5 +21,4 @@ void main(){
 		a-= b;
 		printf("After swapping , value of a = %f \n",a);
 		printf("After swapping , value of b = %f ",b);
-
 }
