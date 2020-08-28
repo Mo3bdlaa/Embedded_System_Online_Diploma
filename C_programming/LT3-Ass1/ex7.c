@@ -1,5 +1,5 @@
 /*
- * ex6.c
+ * ex7.c
  *
  *  Created on: Aug 28, 2020
  *      Author: Mohammed Abdullah
