@@ -14,7 +14,7 @@ void main(){
 	float x;
 	float y;
 
-	printf("Enter operator either + or - or * or divide ");
+	printf("Enter operator either + or - or * or / ");
 	scanf("%c", &operator);
 
 	printf("Enter two numbers: \n");
