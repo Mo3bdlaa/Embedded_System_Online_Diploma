@@ -1,6 +1,6 @@
 
 /*
- * ex7.c
+ * ex8.c
  *
  *  Created on: Aug 28, 2020
  *      Author: Mohammed Abdullah
