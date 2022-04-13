@@ -14,4 +14,3 @@ void main(){
 Printf("First exercise of C_programming in Embedded System online diploma");
 
 }
-
